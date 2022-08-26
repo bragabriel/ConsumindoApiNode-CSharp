@@ -1,0 +1,24 @@
+{
+  "name": "consumindoapinode-csharp",
+  "version": "1.0.0",
+  "description": "Consumindo uma API em Node.JS utilizando C#",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bragabriel/ConsumindoApiNode-CSharp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bragabriel/ConsumindoApiNode-CSharp/issues"
+  },
+  "homepage": "https://github.com/bragabriel/ConsumindoApiNode-CSharp#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "mssql": "^9.0.1"
+  }
+}
