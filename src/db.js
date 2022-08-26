@@ -1,8 +1,8 @@
 const sequelize = require('sequelize');
 
-const database = new sequelize('BaseNode', 'root', '1234',
+const database = new sequelize('basenode', 'root', '1234',
 {
-    dialect:'mssql', //Qual banco estamos utilizando
+    dialect:'mysql', //Qual banco estamos utilizando
     host:'localhost',
     port:'3306',
 });

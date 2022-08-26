@@ -19,6 +19,9 @@
   "homepage": "https://github.com/bragabriel/ConsumindoApiNode-CSharp#readme",
   "dependencies": {
     "express": "^4.18.1",
-    "mssql": "^9.0.1"
+    "mssql": "^9.0.1",
+    "mysql": "^2.18.1",
+    "mysql2": "^2.3.3",
+    "sequelize": "^6.21.4"
   }
 }
