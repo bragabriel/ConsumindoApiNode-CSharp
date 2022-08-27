@@ -1,0 +1,17 @@
+C:\Users\birio\Documents\GitProjetos\ConsumindoApiNode-CSharp\ConsumindoApiNode\ConsumindoApiNode\obj\Debug\net6.0\ConsumindoApiNode.csproj.AssemblyReference.cache
+C:\Users\birio\Documents\GitProjetos\ConsumindoApiNode-CSharp\ConsumindoApiNode\ConsumindoApiNode\obj\Debug\net6.0\ConsumindoApiNode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\birio\Documents\GitProjetos\ConsumindoApiNode-CSharp\ConsumindoApiNode\ConsumindoApiNode\obj\Debug\net6.0\ConsumindoApiNode.AssemblyInfoInputs.cache
+C:\Users\birio\Documents\GitProjetos\ConsumindoApiNode-CSharp\ConsumindoApiNode\ConsumindoApiNode\obj\Debug\net6.0\ConsumindoApiNode.AssemblyInfo.cs
+C:\Users\birio\Documents\GitProjetos\ConsumindoApiNode-CSharp\ConsumindoApiNode\ConsumindoApiNode\obj\Debug\net6.0\ConsumindoApiNode.csproj.CoreCompileInputs.cache
+C:\Users\birio\Documents\GitProjetos\ConsumindoApiNode-CSharp\ConsumindoApiNode\ConsumindoApiNode\bin\Debug\net6.0\ConsumindoApiNode.exe
+C:\Users\birio\Documents\GitProjetos\ConsumindoApiNode-CSharp\ConsumindoApiNode\ConsumindoApiNode\bin\Debug\net6.0\ConsumindoApiNode.deps.json
+C:\Users\birio\Documents\GitProjetos\ConsumindoApiNode-CSharp\ConsumindoApiNode\ConsumindoApiNode\bin\Debug\net6.0\ConsumindoApiNode.runtimeconfig.json
+C:\Users\birio\Documents\GitProjetos\ConsumindoApiNode-CSharp\ConsumindoApiNode\ConsumindoApiNode\bin\Debug\net6.0\ConsumindoApiNode.dll
+C:\Users\birio\Documents\GitProjetos\ConsumindoApiNode-CSharp\ConsumindoApiNode\ConsumindoApiNode\bin\Debug\net6.0\ConsumindoApiNode.pdb
+C:\Users\birio\Documents\GitProjetos\ConsumindoApiNode-CSharp\ConsumindoApiNode\ConsumindoApiNode\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\birio\Documents\GitProjetos\ConsumindoApiNode-CSharp\ConsumindoApiNode\ConsumindoApiNode\obj\Debug\net6.0\ConsumindoApiNode.csproj.CopyComplete
+C:\Users\birio\Documents\GitProjetos\ConsumindoApiNode-CSharp\ConsumindoApiNode\ConsumindoApiNode\obj\Debug\net6.0\ConsumindoApiNode.dll
+C:\Users\birio\Documents\GitProjetos\ConsumindoApiNode-CSharp\ConsumindoApiNode\ConsumindoApiNode\obj\Debug\net6.0\refint\ConsumindoApiNode.dll
+C:\Users\birio\Documents\GitProjetos\ConsumindoApiNode-CSharp\ConsumindoApiNode\ConsumindoApiNode\obj\Debug\net6.0\ConsumindoApiNode.pdb
+C:\Users\birio\Documents\GitProjetos\ConsumindoApiNode-CSharp\ConsumindoApiNode\ConsumindoApiNode\obj\Debug\net6.0\ConsumindoApiNode.genruntimeconfig.cache
+C:\Users\birio\Documents\GitProjetos\ConsumindoApiNode-CSharp\ConsumindoApiNode\ConsumindoApiNode\obj\Debug\net6.0\ref\ConsumindoApiNode.dll
