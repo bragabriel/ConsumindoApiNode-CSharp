@@ -15,3 +15,6 @@ C:\Users\birio\Documents\GitProjetos\ConsumindoApiNode-CSharp\ConsumindoApiNode\
 C:\Users\birio\Documents\GitProjetos\ConsumindoApiNode-CSharp\ConsumindoApiNode\ConsumindoApiNode\obj\Debug\net6.0\ConsumindoApiNode.pdb
 C:\Users\birio\Documents\GitProjetos\ConsumindoApiNode-CSharp\ConsumindoApiNode\ConsumindoApiNode\obj\Debug\net6.0\ConsumindoApiNode.genruntimeconfig.cache
 C:\Users\birio\Documents\GitProjetos\ConsumindoApiNode-CSharp\ConsumindoApiNode\ConsumindoApiNode\obj\Debug\net6.0\ref\ConsumindoApiNode.dll
+C:\Users\birio\Documents\GitProjetos\ConsumindoApiNode-CSharp\ConsumindoApiNode\ConsumindoApiNode\bin\Debug\net6.0\Microsoft.Crm.Sdk.Proxy.dll
+C:\Users\birio\Documents\GitProjetos\ConsumindoApiNode-CSharp\ConsumindoApiNode\ConsumindoApiNode\bin\Debug\net6.0\Microsoft.Xrm.Sdk.dll
+C:\Users\birio\Documents\GitProjetos\ConsumindoApiNode-CSharp\ConsumindoApiNode\ConsumindoApiNode\bin\Debug\net6.0\System.Text.Json.dll

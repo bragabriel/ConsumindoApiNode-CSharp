@@ -35,13 +35,19 @@ module.exports = {
     //Método - Update
     async Update(req, res){
         try {
-            const prod = await ModelProduto.findByPk(req.body.Codigo); //procurando a chave primária
+            const _id = req.params.id;
+
+            const prod = await ModelProduto.findByPk(_id); //procurando a chave primária
 
             if(prod){
+                console.log("ENTROU AQUI")
                 //Se existe a chave primária
                 prod.Descricao = req.body.Descricao,
                 prod.DataAtualizacao = req.body.DataAtualizacao;
                 await prod.save();
+            }
+            else{
+                console.log("ID não encontrado")
             }
 
             return res.json(prod)//Se conseguiu salvar e alterar, retornamos o novo produto
@@ -66,11 +72,19 @@ module.exports = {
     //Método - Delete
     async Delete(req, res){
         try {
-            const prod = await ModelProduto.findByPk(req.body.Codigo); //procurando a chave primária
+            const _id = req.params.id;
+
+            const prod = await ModelProduto.findByPk(_id); //procurando a chave primária
+
 
             await prod.destroy()//Deletando o produto do DB
 
-            return res.json(prod)//Se conseguiu salvar e alterar, retornamos o novo produto
+            /*const response = {
+                message: 'Deletado com sucesso!',
+                usuarioRemovido: res.json(prod)
+            }*/
+
+            return (res.json(prod))//Se conseguiu salvar e alterar, retornamos o novo produto
             
         } catch (error) {
             return console.error("Erro no Update", error);            

@@ -8,10 +8,10 @@ routes.get('/List', controllerProduto.List);
 
 routes.post('/Create', controllerProduto.Create);
 
-routes.put('/Update', controllerProduto.Update);
+routes.put('/Update/:id', controllerProduto.Update);
 
 routes.get('/GetOne', controllerProduto.GetOne);
 
-routes.get('/Delete', controllerProduto.Delete);
+routes.delete('/Delete/:id', controllerProduto.Delete);
 
 module.exports = routes;
