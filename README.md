@@ -1,5 +1,14 @@
 # Consumindo uma API local feita em Node.JS utilizando C# <br><br>
 
+## Neste projeto, foi desenvolvido uma API local utilizando Node.JS, na qual realiza as operações básicas de um CRUD direto no banco de dados. <br> <br> Para consumir esta API, foi desenvolvido e utilizado uma aplicação em *C#*. <br> <br> Para testar a API, utilizei a extensão Thunder Client. <br>
+
+<br>
+
+## Preview do Projeto rodando:
+https://user-images.githubusercontent.com/72152596/187052040-4f794a69-a533-47ba-a02b-033100643eec.mp4
+
+<br>
+
 # API em Node.JS <br>
 
 ### API local desenvolvida utilizando o padrão de arquitetura MVC. <br><br>
